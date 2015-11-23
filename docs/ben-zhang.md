@@ -7,3 +7,5 @@
 **Hobby:** Unicorns
 
 **Favorite Color:** Black/White
+
+**Occupation:** Student
