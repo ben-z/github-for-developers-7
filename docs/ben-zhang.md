@@ -5,3 +5,5 @@
 **Favorite Food:** boiled veggies
 
 **Hobby:** Unicorns
+
+**Favorite Color:** Black/White
